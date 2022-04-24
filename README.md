@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @samehsy
-- 👀 I’m interested in web development (Anagular - node  - express - mongoDB) , AI fields (  ML , computer vision , NLP ,deep learning ...)
-- 🌱 I’m currently learning  AI 
-- 💞️ I’m looking to collaborate on  web development (MEAN stack )
 
-<!---
-samehsy/samehsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Samwh! 👋
+
+
+## 🚀 About Me
+web development (Anagular - node - express - mongoDB) , AI fields ( ML , computer vision , NLP ,deep learning ...)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Roaa Tech 
+
+🧠 I'm currently learning AI-ML 
+ 
+💬 Ask me about Web development , Freelancing
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameh-al-yassin)
+ 
+
+## 🛠 Skills
+Javascript, HTML, CSS, SCSS, Angular, Nodejs, Express js,  MongoDB, 
+
