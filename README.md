@@ -1,12 +1,12 @@
 
-# Hi, I'm Samwh! 👋
+# Hi, I'm Sameh! 👋
 
 
 ## 🚀 About Me
 web development (Anagular - node - express - mongoDB) , AI fields ( ML , computer vision , NLP ,deep learning ...)
 
 
-## Other Common Github Profile Sections
+ 
 👩‍💻 I'm currently working on Roaa Tech 
 
 🧠 I'm currently learning AI-ML 
